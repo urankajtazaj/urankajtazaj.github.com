@@ -1,5 +1,3 @@
-## Uran Kajtazaj
-
 ### Store-ms
 **Store-ms** is a store management system for small stores and businesses. You can manage products, employees, customers and a lot more.
 
