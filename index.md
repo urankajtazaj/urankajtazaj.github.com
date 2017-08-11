@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/urankajtazaj/store-ms/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download urankajtazaj/store-ms on GitHub">Download</a>
+<a class="github-button" href="https://github.com/urankajtazaj/store-ms/releases/download/v1.0.2/store-ms.zip data-icon="octicon-cloud-download" data-size="large" aria-label="Download urankajtazaj/store-ms on GitHub">Download</a>
 
 You can use the [editor on GitHub](https://github.com/urankajtazaj/urankajtazaj.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
